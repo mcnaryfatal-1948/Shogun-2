@@ -218,4 +218,4 @@ Shogun 2 offers the full free version with all features and updates included. En
 Download Shogun 2 now and embark on an epic journey to become the ultimate Shogun of Japan!
 
 ---
-**Last updated:** 2026-09-27 18:11:48 UTC
+**Last updated:** 2026-09-27 21:57:21 UTC
